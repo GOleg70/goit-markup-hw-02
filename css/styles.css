@@ -2,3 +2,45 @@ body {
   font-family: roboto, sans-serif;
   color: #2e2f42;
 }
+.navi {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+}
+.navi-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+}
+.navi-link:hover {
+  color: #404bbf;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.address-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+}
+.address-link:hover {
+  font-size: 16px;
+  font-weight: 400;
+  color: #404bbf;
+}
+.button {
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  background: #4d5ae5;
+}
+.button:hover {
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  background: #404bbf;
+}
+h1 {
+  font-size: 56px;
+  font-weight: 700;
+}
