@@ -117,6 +117,14 @@ span.logo {
 .sec-three-ul {
   background-color: #ffffff;
 }
+.sec-three-li {
+  color: #2e2f42;
+  background: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 
 .section-three-p {
   font-family: Roboto;
