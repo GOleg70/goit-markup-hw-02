@@ -44,7 +44,7 @@ span.logo {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .address-link:hover,
@@ -73,7 +73,7 @@ span.logo {
 .firstsec {
   background: #2e2f42;
 }
-.firstsech1 {
+.firstsec-h-one {
   color: #ffffff;
   text-align: center;
   font-family: Roboto;
