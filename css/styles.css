@@ -93,6 +93,7 @@ h3 {
   line-height: 1.5;
   color: #f4f4fd;
   background: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .logo-footer {
   color: #4d5ae5;
@@ -104,7 +105,10 @@ h3 {
   text-transform: uppercase;
   background: #2e2f42;
 }
-span.logo2 {
+span.logo-footer {
   color: #f4f4fd;
+  background: #2e2f42;
+}
+.footer {
   background: #2e2f42;
 }
