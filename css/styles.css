@@ -74,11 +74,14 @@ span.logo {
   background: #2e2f42;
 }
 .sec1h1 {
+  color: #ffffff;
+  text-align: center;
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .section2-h3 {
