@@ -7,6 +7,11 @@ body {
   font-size: 16px;
   font-weight: 500;
 }
+.navy-logo {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
 .navi-link {
   color: #2e2f42;
   font-size: 16px;
