@@ -24,13 +24,19 @@ span.logo {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
+.navi-link:hover,
 .navi-link:hover {
   color: #404bbf;
   font-size: 16px;
   font-weight: 500;
 }
 
+.address-head {
+  font-style: normal;
+}
 .address-link {
   color: #434455;
   font-size: 16px;
